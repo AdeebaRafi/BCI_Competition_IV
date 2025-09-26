@@ -1,6 +1,6 @@
 # Title: BCI Competition IV 2a - simple pipeline **
 
-# Short description
+# Short description: 
 
 This repository shows a simple pipeline to train a motor imagery classifier on the BCI Competition IV 2a dataset. For learning purpose, I train a model. The pipeline is simple and meant for learning. It uses MNE for data handling and CSP + LDA for classification.
 
