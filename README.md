@@ -1,4 +1,4 @@
-## Model Used
+## Model Used:
 EEGNet - a specialized convolutional neural network designed for EEG signal classification Dataset: BCICIV_2a (Motor Imagery dataset) - left hand vs right hand classification Key Steps:
 
 1. Loaded EEG data from GDF files using MNE
